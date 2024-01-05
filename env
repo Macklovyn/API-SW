@@ -1,0 +1,6 @@
+SMTP_HOST=sandbox.smtp.mailtrap.io
+SMTP_PORT=2525
+SMTP_USER=09426177092166
+SMTP_PASS=c0d72a47dcb80d
+
+TOKEN_SECRET=palabraSecrter
