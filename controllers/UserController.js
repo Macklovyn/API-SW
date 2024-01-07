@@ -3,7 +3,7 @@ const jwt = require('jsonwebtoken');
 const nodemailer = require('nodemailer');
 const { validationResult } = require('express-validator');
 const { User } = require('../models');
-const { secretKey, smtpConfig } = require('../config/config.js');
+const { secretKey, smtpConfig } = require('../config/config');
 
 const handleErrors = (res, status, message) => {
     res.status(status).json({ message });

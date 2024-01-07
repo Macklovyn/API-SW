@@ -18,6 +18,7 @@ router.post('/reset-password', UserController.resetPassword);
 // Rutas de Categorías
 router.post('/categories', verifyToken, CategoryController.create);
 router.get('/categories', CategoryController.getAll);
+router.get('/categories/:id', CategoryController.show);
 router.put('/categories/:id', verifyToken, CategoryController.update);
 router.delete('/categories/:id', verifyToken, CategoryController.delete);
 
@@ -30,7 +31,8 @@ router.delete('/properties/:id', verifyToken, PropertyController.delete);
 
 // Rutas de Mensajes
 router.post('/messages', verifyToken, MessageController.create);
-router.get('/messages', PropertyController.getAll);
+router.post('/message/response', verifyToken, MessageController.respondToMessage)
+router.get('/messages', MessageController.getAll);
 router.get('/messages/:id', PropertyController.getById);
 router.put('/messages/:id', verifyToken, PropertyController.update);
 router.delete('/messages/:id', verifyToken, PropertyController.delete);

@@ -8,7 +8,13 @@ const handleErrors = (res, status, message) => {
 const MessageController = {
     async getAll(req, res) {
         try {
-            const messages = await Message.findAll();
+            const messages = await Message.findAll({
+                include: [
+                    { model: User, attributes: ['id', 'name'], as: 'user' },
+                    { model: Property, attributes: ['id', 'name'], as: 'property' }
+                ]
+            });
+
             res.json(messages);
         } catch (error) {
             console.error(error);
@@ -24,17 +30,25 @@ const MessageController = {
             }
 
             const { propertyId, title, content } = req.body;
-            const senderUserId = req.user.id;
 
-            const property = await Property.findByPk(propertyId);
-            const senderUser = await User.findByPk(senderUserId);
+            const user = await User.findOne({
+                where: { email: req.user }
+            });
+            const userId = user.id
+            const senderUser = await Property.findByPk(propertyId);
 
-            if (!property || !senderUser) {
+            if (!user || !senderUser) {
                 return handleErrors(res, 400, 'Propiedad o usuario no encontrado.');
             }
 
-            const message = await Message.create({ propertyId, title, content, senderUserId });
-            res.json(message);
+            await Message.create({
+                idUser: userId,
+                idProperty: propertyId,
+                message: content,
+                status: 'CREADO'
+            });
+
+            return res.status(200).json({ status: 200, message: 'Enviado con éxito' });
         } catch (error) {
             console.error(error);
             handleErrors(res, 500, 'Error interno del servidor.');

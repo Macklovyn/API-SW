@@ -4,13 +4,9 @@ const {
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
   class Message extends Model {
-    /**
-     * Helper method for defining associations.
-     * This method is not a part of Sequelize lifecycle.
-     * The `models/index` file will call this method automatically.
-     */
     static associate(models) {
-      // define association here
+      Message.belongsTo(models.User, { foreignKey: 'idUser', as: 'user' });
+      Message.belongsTo(models.Property, { foreignKey: 'idProperty', as: 'property' });
     }
   }
   Message.init({
@@ -23,5 +19,12 @@ module.exports = (sequelize, DataTypes) => {
     sequelize,
     modelName: 'Message',
   });
+
+  // Asegúrate de llamar al método `associate` después de inicializar el modelo
+  Message.associate = (models) => {
+    Message.belongsTo(models.User, { foreignKey: 'idUser', as: 'user' });
+    Message.belongsTo(models.Property, { foreignKey: 'idProperty', as: 'property' });
+  };
+
   return Message;
 };
