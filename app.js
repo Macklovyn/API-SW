@@ -1,3 +1,4 @@
+/* This code is setting up a basic server using the Express framework in JavaScript. */
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
