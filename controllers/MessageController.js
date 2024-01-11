@@ -14,7 +14,7 @@ const MessageController = {
      * @param {Object} res - Objeto de respuesta express.
      * @returns {Object} - Respuesta JSON con todos los mensajes y detalles asociados.
      */
-    async getAll(req, res) {
+    async getAll (req, res) {
         try {
             // Obtener todos los mensajes con información detallada del usuario y propiedad
             const messages = await Message.findAll({
@@ -39,7 +39,7 @@ const MessageController = {
      * @param {Object} res - Objeto de respuesta express.
      * @returns {Object} - Respuesta JSON con el estado de la operación.
      */
-    async create(req, res) {
+    async create (req, res) {
         try {
             // Validar campos de la solicitud
             const errors = validationResult(req);
@@ -52,7 +52,7 @@ const MessageController = {
 
             // Obtener el usuario actual
             const user = await User.findOne({
-                where: { email: req.user }
+                where: { email: req.user.email }
             });
             const userId = user.id;
 
@@ -87,7 +87,7 @@ const MessageController = {
      * @param {Object} res - Objeto de respuesta express.
      * @returns {Object} - Respuesta JSON con el estado de la operación.
      */
-    async delete(req, res) {
+    async delete (req, res) {
         try {
             // Obtener el ID del mensaje desde los parámetros de la ruta
             const { messageId } = req.params;
@@ -116,7 +116,7 @@ const MessageController = {
      * @param {Object} res - Objeto de respuesta express.
      * @returns {Object} - Respuesta JSON con el estado de la operación.
      */
-    async markMessageAsRead(req, res) {
+    async markMessageAsRead (req, res) {
         try {
             // Obtener el ID del mensaje desde los parámetros de la ruta
             const { messageId } = req.params;
@@ -146,7 +146,7 @@ const MessageController = {
      * @param {Object} res - Objeto de respuesta express.
      * @returns {Object} - Respuesta JSON con el estado de la operación.
      */
-    async respondToMessage(req, res) {
+    async respondToMessage (req, res) {
         try {
             // Validar campos de la solicitud
             const errors = validationResult(req);
