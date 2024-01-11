@@ -11,5 +11,7 @@ module.exports = {
             user: process.env.SMTP_USER || 'carlos.triguerosn@gmail.com',
             pass: process.env.SMTP_PASS || 'guysqmkfwyoqxpkk',
         },
+        
     },
+
 };
