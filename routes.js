@@ -4,7 +4,7 @@ const authMiddleware = require('./middlewares/authMiddleware');
 const UserController = require('./controllers/UserController');
 const CategoryController = require('./controllers/CategoryController');
 const PropertyController = require('./controllers/PropertyController');
-const MessageController = require('./controllers/messageController');
+const MessageController = require('./controllers/MessageController');
 const verifyToken = require('./middlewares/authMiddleware');
 
 
