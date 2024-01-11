@@ -240,3 +240,4 @@ const UserController = {
 
 // Exportar el controlador para su uso en otras partes de la aplicación
 module.exports = UserController;
+

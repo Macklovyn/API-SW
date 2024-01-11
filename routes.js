@@ -38,3 +38,4 @@ router.put('/messages/:id', verifyToken, PropertyController.update);
 router.delete('/messages/:id', verifyToken, PropertyController.delete);
 
 module.exports = router;
+

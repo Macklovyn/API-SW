@@ -29,3 +29,4 @@ module.exports = (sequelize, DataTypes) => {
 
   return Category; // Devolver el modelo Category
 };
+

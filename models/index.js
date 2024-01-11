@@ -55,3 +55,4 @@ db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 
 module.exports = db; // Exportar el objeto 'db' que contiene los modelos y la conexión a la base de datos
+

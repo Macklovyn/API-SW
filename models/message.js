@@ -37,3 +37,4 @@ module.exports = (sequelize, DataTypes) => {
   // Devuelve el modelo `Message` configurado y listo para su uso
   return Message;
 };
+

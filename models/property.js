@@ -37,3 +37,4 @@ module.exports = (sequelize, DataTypes) => {
   // Devuelve el modelo `Property` configurado y listo para su uso
   return Property;
 };
+

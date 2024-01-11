@@ -134,3 +134,4 @@ const CategoryController = {
 
 // Exportar el controlador `CategoryController`
 module.exports = CategoryController;
+

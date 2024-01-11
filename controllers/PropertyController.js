@@ -164,3 +164,4 @@ const PropertyController = {
 
 // Exportar el controlador para su uso en otras partes de la aplicación
 module.exports = PropertyController;
+
