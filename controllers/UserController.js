@@ -41,7 +41,7 @@ const UserController = {
             const newUser = await User.create({ name, email, password: hashedPassword });
 
             // Enviar correo de activación
-            const activationLink = `http://tu-domino.com/api/activate/${newUser.id}`;
+            const activationLink = `https://api-proyectsw.onrender.comapi/activate/${newUser.id}`;
             const transporter = nodemailer.createTransport(smtpConfig);
 
             await transporter.sendMail({
