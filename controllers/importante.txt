@@ -1,0 +1,2 @@
+Hola, aqui aportando al proyecto
+En los controles debemos hacer que se ejecuten en sintonia con lo que hace el usuario, los quiero
