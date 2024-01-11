@@ -1,39 +1,854 @@
 Hola, aqui aportando al proyecto
 En los controles debemos hacer que se ejecuten en sintonia con lo que hace el usuario, los quiero
 
+Y aqui un contrato de uso, por si acaso
+CONTRATO DE LICENCIA DE USO DE SOFTWARE
+SOFTWARE NSX
+Todos los Derechos Reservados Sistemas Insepet Cia Ltda y sus Compañías Afiliadas.
+El Presente instrumento, es contrato de Licencia de Uso del Software NSX, concedido por
+Sistemas Insepet Cia Ltda y sus Compañías Afiliadas al Usuario Final denominando así
+al presente instrumento como Contrato de Licencia para el Usuario Final (CLUF), que en
+consecuencia y para efectos del presente contrato serán llamados El Autor y el Cliente y el
+Software NSX objeto del presente contrato, podrá ser llamado El Software o como se mencione
+en las condiciones preliminares. El presente contrato será el único instrumento legal si fuera
+necesario acudir a juzgados competentes o la intervención de un Mediador o Arbitraje entre
+ambas partes.
+CONDICIONES PRELIMINARES
+En estas condiciones preliminares se utilizan algunos de los términos definidos en el párrafo 1 que
+se encuentra más adelante. El Autor: Propietario de los Derechos Intelectuales del Software,
+Sistemas Insepet Cia Ltda y propietarios de las empresas y/o sociedades a las cuales el Autor
+conceda los derechos del Software. Software, Programa, Sistema, Aplicación: Producto de objeto
+de este contrato, llamado también Software NSX e incluye una parte o todo el contenido del
+mismo, y sólo cuando la palabra se utilice para descripción del mismo.
+El presente Contrato. El presente Contrato entre el Autor y el Cliente, y todas las versiones futuras,
+cubre todos los usos del Software desde cualquier terminal y/o servidor donde el Software haya
+sido instalado, por el Autor o personas responsables delegadas por el mismo o donde corra
+mediante protocolos de comunicación que el Software acepte.
+Condiciones Adicionales. Este contrato también incluirá las Condiciones Adicionales (según se
+definen más adelante). Las Condiciones Adicionales incluirán, entre otras, las políticas y
+condiciones que se establecen en el inciso 7 más adelante. Si desea usar los Servicios y utilidades
+del Software debe aceptar las Condiciones Adicionales. Haciendo uso del Software usted reconoce
+y acepta que el Autor interpretará dicho uso como aceptación de las condiciones
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+correspondientes. Usted reconoce y acepta que al aceptar el presente Contrato y las Condiciones
+Adicionales, Usted está celebrando un contrato legal y vinculante, que en su conjunto y en
+adelante se denomina "Condiciones". Si existe alguna contradicción entre las Condiciones
+Adicionales y el presente Contrato, prevalecerán las Condiciones Adicionales en cuestión. Es
+aconsejable que imprima o guarde una copia de este contrato para su constancia.
+1. DEFINICIONES
+1.1 Los siguientes términos y expresiones tendrán los significados que se indican a 
+continuación:
+Usted. Se refiere y solo cuando hace referencia a el Cliente. 
+Condiciones Adicionales. Las cláusulas, condiciones y políticas que rigen el uso del
+Software y los Servicios del Autor, además del presente Contrato.
+Compañía Afiliada. Cualquier Persona Jurídica o Individual, compañía o entidad que,
+directa o indirectamente, controle o esté controlada por el Autor, o junto con el Autor
+estén bajo control de una tercera. A los fines de esta definición, la palabra "control" se
+define como la posesión directa o indirecta de un porcentaje de las acciones en circulación
+con derecho a voto en la sociedad y/o a cualesquiera derechos de representación
+otorgados por la compañía o entidad y solo en lo relacionado al software.
+Contrato. El presente Contrato de Licencia para el Usuario Final, con las actualizaciones o
+enmiendas que pueda sufrir con el correr del tiempo.
+Documentación. Cualquier documentación proporcionada por el Autor, ya sea electrónica
+o en cualquier otro formato.
+Fecha de Vigencia. La fecha en que se comienza a hacer uso del software.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+Derechos de Propiedad Intelectual. Hacen referencia a (i) patentes; solicitudes de
+patentes en trámite, diseños, marcas comerciales y nombres comerciales (registrados o
+no); derechos de propiedad intelectual (copyright) y relacionados; derechos de bases de
+datos, conocimientos prácticos e información confidencial; (ii) todos los demás derechos
+de propiedad intelectual y derechos similares o equivalentes en cualquier parte del
+mundo, que existan actualmente o se reconozcan en el futuro; y (iii) solicitudes,
+extensiones y actualizaciones en relación con cualquiera de esos derechos.
+Contraseña. Hace referencia al código que Usted elige, el cual le permite el acceso a Su
+Cuenta de Usuario al introducirlo junto con el Nombre de Usuario y referente únicamente
+al Software.
+Autor. Hace referencia a la empresa constituida según las leyes de la República de
+Colombia, Sistemas Insepet Cia Ltda y/o cualquiera de sus Compañías Afiliadas que le sean
+concedidos los derechos.
+Interfaz de Programación de Aplicaciones (API) de Software NSX. Interfaz de programación
+de aplicaciones que consta de un conjunto de rutinas utilizadas por el Software para
+brindar su funcionalidad en una plataforma o un sistema operativo dados. La Interfaz de
+Programación de Aplicaciones (API) del Software está incluida en el Software NSX o
+vinculada a él, así como toda versión, mejora, desarrollo, corrección y actualización que
+tenga lugar en el futuro, por iniciativa del Autor o a Solicitud del cliente.
+Materiales Promocionales de NSX. Todos y cada uno de los nombres, carteles, logotipos,
+pancartas, marcas comerciales y cualquier otro material, cualquiera sea su formato, que
+posea o utilice el Autor a fin de promocionar su empresa, productos y actividades.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+Servicios de NSX. El Sitio Web del Autor y cualquier otro producto o servicio que el Autor o
+sus Compañías Afiliadas pongan a Su disposición, además del Software NSX.
+Software NSX. Software distribuido por el Autor para aplicaciones relacionadas con Bases
+de Datos y/o cualesquiera otros formatos de archivos, que incluye la Interfaz de
+Programación de Aplicaciones (API) del Autor, la Interfaz del Usuario (IU) y la
+Documentación, así como toda versión, mejora, desarrollo, corrección o actualización del
+Software que tenga lugar en el futuro por iniciativa del Autor o a solicitud del Cliente.
+Personal de Sistemas Insepet y Cia Ltda. Los funcionarios, directores, empleados y
+agentes Sistemas Insepet Cia Ltda o sus Compañías Afiliadas, o cualquier persona
+contratada por el Autor o sus Compañías Afiliadas.
+Sitio Web del Autor. Todos y cada uno de los elementos, contenidos y el aspecto de los
+sitios web disponibles como www.insepet.com entre otras direcciones URL, desde la
+cual se pueda descargar el Software, actualizaciones y/o mejoras, así como consultar
+tutoriales, o información adicional, y cualesquiera páginas web que se deriven de estos, y
+también podrán ser llamados sitios web y solo cuando el término se refiera a estos.
+Condiciones. Tiene el significado del término precedente "Condiciones Adicionales".
+Interfaz del Usuario (IU). Interfaz del usuario del Software.
+Cuenta de Usuario: Hace referencia a la cuenta con Nombre de Usuario y Contraseña que
+Usted solicita para hacer uso del Software.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+Nombre de Usuario. Hace referencia al código de identificación que Usted eligió o le sea
+asignado,el cual le permite acceder a Su Cuenta de Usuario al ingresarlo junto con la
+Contraseña.
+Cliente. Usted, el usuario final del Software y, donde corresponda, "Su", "Suyo", “usted” o
+"el Usuario".
+1.2 Las referencias en singular incluyen el plural y viceversa, y las referencias en un género
+incluyen el otro género.
+1.3 Toda frase que comience con las expresiones "incluido", "que incluye", "entre otros" u
+otra expresión similar deberá interpretarse como de carácter ilustrativo y no limitará el
+sentido de las palabras que acompañen a dichos términos en su contexto.
+2. LICENCIAS Y RESTRICCIONES
+2.1 Licencia. Sujeta a las condiciones de este Contrato, el Autor le otorga por el presente
+una licencia para utilizar el Software en Su equipo de cómputo, sea un servidor Linux o
+una PC en Microsoft Windows®, u otros sistemas operativos en los que el software pueda
+correr, mediante uso de terminales o directamente en el equipo en mención, así como
+teléfono o asistente electrónico personal (PDA, EDA, HandHeld, etc) con el único fin de
+utilizar personalmente aplicaciones para alimentación de la base de datos del software o
+ver reflejada en pantalla, impresora, o por cualesquiera otros medios electrónicos la
+información ingresada previamente al software. Dicha licencia es limitada, personal y/o
+comercial, no exclusiva y no gratuita, y no puede sublicenciarse ni cederse. Usted puede
+utilizar el Software desde cualesquiera partes del mundo, siempre y cuando cuente con la
+tecnología para hacerlo, la cual no está contenida en el presente instrumento. Usted
+puede darle acceso al uso de la interfaz de usuario a las personas que quiera hacerlo,
+quedando limitada la responsabilidad del uso del mismo al Cliente.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+2.2 Prohibición de cesión de derechos a terceros. Usted tiene prohibido vender, ceder,
+alquilar, arrendar, distribuir, exportar, importar, actuar como un intermediario o
+proveedor, u otorgar a terceros derechos sobre el Software o cualquiera de sus
+componentes. El Cliente adquiere su licencia para uso de sus datos únicamente.
+2.3 Prohibición de modificaciones. Usted tiene prohibido realizar, causar, permitir o
+autorizar la modificación, creación de trabajos derivados, traducción, ingeniería inversa,
+descompilación, desarmado o piratería del Software o cualquiera de sus componentes. 
+2.4 Terceros. El Software puede incorporar o estar incorporado en programas y otras
+tecnologías que estén controlados y sean propiedad de terceros. Todo software o
+tecnología de terceros que se incorpore al Software NSX no estará regido por los términos
+del presente Contrato. Todos y cada uno de los programas de software o tecnologías de
+terceros que se distribuyan junto con el Software NSX deberán contar con la aceptación
+explícita por Su parte del contrato de licencia del tercero en cuestión aunque estas fueran
+licencias de código abierto, en cualesquiera de sus definiciones. Usted reconoce y acepta
+que la relación contractual que inicia con el Autor y sus Compañías Afiliadas no tiene
+ningún vínculo con tales programas de software y tecnologías de terceros y que, a fin de
+hacer cumplir sus derechos, se dirigirá exclusivamente al tercero que corresponda y no al
+Autor ni a sus Compañías Afiliadas o pagará al Autor del Software por
+reparaciones necesarias a programas de terceros.
+2.5 Propiedad exclusiva. Todos los Derechos de Propiedad Intelectual sobre el Software
+NSX, los Sitio Web, los Materiales del Autor en Internet y los Materiales Promocionales del
+Autor son y serán propiedad exclusiva del Autor y/o sus licenciantes. Ninguna disposición
+del presente Contrato tiene la intención de transferir ni de conferirle a Usted ninguno de
+esos Derechos de Propiedad Intelectual. Usted tiene derecho solo al uso y con las
+limitaciones que la licencia adquirida le otorguen. No podrá llevar a cabo ninguna acción
+que ponga en riesgo o limite los Derechos de Propiedad Intelectual del Autor ni que
+interfiera con ellos. Todo uso no autorizado de los Derechos de Propiedad Intelectual del
+Autor constituye una violación del presente Contrato, así como de las leyes y los tratados
+de propiedad intelectual, incluidas, entre otras, las leyes de propiedad intelectual
+(copyright) y marcas comerciales. Todo título y Derecho de Propiedad Intelectual relativo
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+o correspondiente a cualquier contenido de terceros no incluido en el
+Software, pero al que se pueda acceder mediante el uso de dicho Software, pertenece a
+los respectivos propietarios del contenido y puede estar protegido por leyes de propiedad
+intelectual (copyright) u otras leyes y tratados de propiedad intelectual.
+2.6 Prohibición de eliminación de avisos. Usted acuerda no eliminar, ocultar, tornar
+ilegible ni alterar ningún aviso o indicación de los Derechos de Propiedad Intelectual o
+derechos del Software y su propiedad de ellos, independientemente de si tales
+indicaciones están adjuntas, contenidas o relacionadas de cualquier otra manera con
+cualesquiera de los materiales o directamente en el software.
+2.7 Uso de la Interfaz de Programación de Aplicaciones (API) del Software del Autor.
+2.7.1 Al utilizar la Interfaz de Programación de Aplicaciones (API) del Software, usted
+acepta las siguientes condiciones y si no las acepta solicite la desinstalación del software
+de su equipo de cómputo:
+(i) Que su uso de la Interfaz de Programación de Aplicaciones (API) del software tenga
+fines legítimos únicamente y no afecte negativamente la funcionalidad ni el rendimiento
+del Software ni de los servicios prestados por el mismo. En otras palabras, no deberá
+utilizar el software con fines de afectar la información contenida en el mismo, en dicho
+caso será responsable el Cliente del uso que se le de al Software y tampoco puede adquirir
+una licencia del Software con el fin de hacer pruebas de cómo afectarlo en su desempeño,
+funcionalidad o seguridad de la información, para mayor información vea el párrafo del
+inciso 2.3.
+(ii) La información contenida en la base de datos del software, el uso que se le de a la
+misma, ni las consecuencias derivadas de dicho uso, NO SON RESPONSABILIDAD DIRECTA
+NI INDIRECTA DEL AUTOR.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+2.7.2 Si Usted desea utilizar la Interfaz de Programación de Aplicaciones (API) del Software
+para un fin no permitido por el presente Contrato ni las Condiciones de Uso de la Interfaz
+de Programación de Aplicaciones (API) del Software, deberá obtener el previo
+consentimiento por escrito del Autor y aceptar explícitamente cualquier condición
+adicional de cualquier índole.
+2.8 Materiales Promocionales del Autor. Ninguna estipulación de este Contrato le otorga 
+derecho alguno a utilizar los Materiales Promocionales del Autor.
+3. QUÉ ESPERAR Y QUÉ NO ESPERAR DEL SOFTWARE
+3.1 Ausencia de garantías. La instalación del Software y la interfaz del usuario le permite a
+Usted comunicarse con la base de datos del software, pero el Software no puede
+garantizar que Usted pueda comunicarse siempre con dicha base de datos ni que pueda
+hacerlo sin interrupciones, demoras u otras fallas afines a las comunicaciones. Tampoco
+puede garantizar que todas Sus comunicaciones se envíen siempre de forma correcta.
+3.2 Contenido de las comunicaciones. El contenido de la comunicación generada por el
+uso del Software es de la entera responsabilidad de la persona que lo originó. En
+consecuencia, Usted comprende que el uso del Software y los Servicios del mismo podrá
+verse expuesto a contenido incorrecto o erróneo, el cual podría ser perjudicial para las
+operaciones del Cliente, y quizás a contenido indecente o de cualquier otro modo
+censurable, y que Usted utiliza el Software y los Servicios del mismo a Su propia
+responsabilidad.
+3.3 Uso del equipo del Usuario. El Software puede utilizar el procesador y el ancho de
+banda del equipo (u otro dispositivo, según corresponda) que Usted está utilizando, con el
+fin limitado de facilitar la comunicación entre el usuario del Software y la base de datos u
+otros archivos de cualesquiera formatos. El Autor hará los esfuerzos que sean
+comercialmente razonables para proteger la privacidad e integridad de los recursos del
+equipo (u otro dispositivo, según corresponda) que Usted esté utilizando, así como de la
+comunicación. No obstante, el Autor no puede otorgar ninguna garantía al respecto.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+3.4 Nuevas versiones del Software. El Autor, a su libre y exclusivo criterio, se reserva el
+derecho de agregar características, funciones, correcciones y actualizaciones al Software.
+El Autor no tiene obligación alguna de proporcionarle a Usted ninguna versión posterior
+del Software. Quizá deba celebrar una versión actualizada del presente Contrato en caso
+de que desee descargar, instalar o utilizar una nueva versión del Software, para lo cual
+deberá comunicarse con el Autor.
+3.5 Suspensión. El Autor, a su libre y exclusivo criterio y en el grado máximo permitido en
+Su jurisdicción, podrá modificar, interrumpir o suspender la posibilidad de que Usted
+utilice cualquier versión del Software y/o inhabilitar cualquier Software del Autor al que
+Usted ya haya accedido o instalado sin notificárselo a Usted, a los efectos de la reparación,
+mejora o actualización de la tecnología que lo compone o por cualquier otro motivo
+justificable, incluidas, entre otras, circunstancias en las que Usted, a criterio del Autor,
+incurriera en incumplimiento de las condiciones estipuladas en el presente instrumento,
+sin embargo el autor hará todo lo que esté a su alcance para comunicarse con el cliente
+previamente.
+4. QUÉ ESPERAMOS DEL USUARIO
+4.1 Fines lícitos. Usted utilizará el Software con fines lícitos exclusivamente. A este
+respecto, Usted no puede, sin limitaciones, (a) interceptar ni controlar, dañar o modificar
+ninguna comunicación entre el software y su base de datos; (b) utilizar ningún tipo de
+araña, virus, gusano, caballo de Troya, bomba de tiempo ni ninguna otra instrucción o
+código diseñado para distorsionar, eliminar, dañar o desarmar el Software o la
+comunicación del mismo; (c) Ingresar ninguna información comercial o personal que no
+esté permitida por las leyes vigentes, en el país de uso del sistema o
+en el país donde se encuentre el servidor donde esté alojada la base de Datos; (d) exponer
+a ningún tercero a información de naturaleza ofensiva, perjudicial para menores,
+indecente o de cualquier otro modo censurable; (e) utilizar el Software para provocar o
+intentar provocar turbación o angustia a terceros, o para amenazar, acosar o invadir la
+privacidad de terceros; ni (f) utilizar material o contenido sujeto a cualquier derecho de
+propiedad de terceros, a menos que Usted cuente con una licencia o un permiso otorgado
+por el propietario de dichos derechos.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+4.2 Declaraciones. Usted declara y garantiza que está autorizado a celebrar el presente
+Contrato y cumplir las Condiciones. Además, Usted declara y garantiza que cumplirá en
+todo momento con las obligaciones contraídas por medio de las Condiciones, así como
+con toda ley, reglamentación y política que pueda regir el uso del Software y/o los
+Servicios del mismo.
+4.3 Indemnización. USTED ACUERDA INDEMNIZAR, DEFENDER Y LIBERAR AL AUTOR Y SUS
+COMPAÑÍAS AFILIADAS DE TODA RESPONSABILIDAD Y COSTAS, INCLUIDOS LOS
+HONORARIOS DE ABOGADOS O DE CUALQUIER TIPO INCURRIDOS POR DICHAS PARTES,
+RELACIONADAS U ORIGINADAS EN (A) LA VIOLACIÓN O EL INCUMPLIMIENTO POR SU
+PARTE DE CUALQUIER CONDICIÓN DE ESTE CONTRATO O CUALQUIER LEY O
+REGLAMENTACIÓN, CONTEMPLADA O NO EN EL PRESENTE, (B) LA VIOLACIÓN POR SU
+PARTE DE CUALQUIERA DE LOS DERECHOS DE TERCEROS,
+(C) EL USO DEBIDO O INDEBIDO POR SU PARTE DEL SOFTWARE DEL AUTOR O (D)
+COMUNICACIONES GENERADAS POR MEDIO DEL SOFTWARE Y LA INFORMACIÓN
+CONTENIDA EN EL MISMO.
+4.4 Uso del equipo informático del Usuario. Si Su uso del Software depende de la
+utilización de un procesador y de ancho de banda propiedad de un tercero o controlado
+por él, Usted reconoce y acepta que Su licencia de uso del Software está sujeta a que
+obtenga el consentimiento del tercero correspondiente para dicho uso. Usted declara y
+garantiza que al aceptar el presente Contrato y usar el Software, Usted ha obtenido dicho
+consentimiento.
+4.5 Restricciones de exportación y Uso fuera de la República de Colombia. El Software
+puede estar sujeto a reglas internacionales que rigen la exportación de software. Usted
+deberá cumplir con todas las leyes nacionales e internacionales vigentes que
+correspondan al Software, y también deberá cumplir con las restricciones de destino, uso
+final y usuario final emitidas por los gobiernos nacionales. Para uso del software NSX en
+otros países deberá consultar las Normas para las exportaciones en Colombia y las
+Importaciones en el País donde desea utilizar el Software, ya
+que algunos programas no pueden ser exportados, reexportados ni descargados ni
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+utilizados por ninguna persona en ningún país donde las comunicaciones encriptadas
+estén prohibidas. Además, el software no podrá ser exportado, reexportado ni descargado
+por ninguna persona o entidad sujeta a sanciones de la República de Colombia y otros
+países con las que Colombia tenga alianzas anti criminales, independientemente del lugar
+donde se encuentre. El Autor pone a Su disposición este software únicamente con la
+condición de que Usted certifique que no es dicha persona ni entidad y que el uso del
+software es para fines legales según el país donde se encuentre.
+5. PLAZO, RESCISION Y ACTUALIZACIONES
+5.1 Plazo. El presente Contrato y las Condiciones entrarán en vigencia a partir de la Fecha
+de Vigencia y hasta tanto el Autor o Usted lo rescindan del modo que se establece más
+adelante y/o en las condiciones correspondientes.
+5.2 Rescisión. Usted puede rescindir las Condiciones en cualquier momento y con efecto
+inmediato entendiendo que esto implica la desinstalación del Software de su Sistema de
+Cómputo. Sin perjuicio de otros recursos legales, el Autor podrá limitar, suspender o
+rescindir esta licencia y Su uso del Software y los Servicios del mismo, prohibir el acceso al
+Sitio Web del Autor y eliminar Su Cuenta de Usuario y/o Nombre de Usuario, con efecto
+inmediato, automáticamente y sin recurrir a los tribunales, si considera que Usted incurre
+en incumplimiento de las Condiciones, ocasiona problemas o responsabilidades legales
+(efectivas o potenciales), viola derechos de propiedad intelectual de terceros, participa en
+actividades fraudulentas, inmorales o ilegales, o bien por otras razones similares que de
+forma directa o indirecta afecte al Autor. El Autor pondrá en efecto dicha rescisión
+notificándoselo por correo electrónico a la dirección por Usted provista
+y/o impidiéndole que acceda a Su Cuenta de Usuario. Esta rescisión no incurrirá por
+ninguna razón en ninguna devolución del Importe otorgado al Autor por la licencia del
+software.
+5.3 Consecuencias de la rescisión. Una vez rescindidos el presente Contrato y las
+Condiciones Adicionales: (a) todas las licencias y los derechos relacionados con el uso del
+Software y los Servicios del mismo caducarán de inmediato; (b) Usted suspenderá
+inmediatamente todo uso del Software y sus Servicios; y (c) Usted desinstalará el Software
+si puede hacerlo o el Autor procederá a realizar dicha desinstalación de todos los discos
+duros, las redes y demás medios de almacenamiento y destruirá todas las copias del
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+Software que tenga en Su poder o Su control inmediatamente. La información contenida
+en la base de datos del software será eliminada, pero podrá pedir una copia en otro
+formato electrónico, a efecto de no perderla, pero esto aplicará mediante un pago
+adicional por dicho backup, y siempre y cuando la información no sea del tipo mencionado
+en el inciso cuatro punto uno (4.1).
+5.4 Nuevas versiones. El Autor se reserva el derecho de modificar el presente Contrato en
+cualquier momento mediante la publicación de su versión revisada en el Sitio Web del
+Autor. El Contrato revisado entrará en vigencia al momento de ser actualizado y
+publicado. Su aceptación expresa o Su uso continuo del Software luego de que expire el
+plazo de treinta (30) días constituye su aceptación de la obligación de cumplir con las
+cláusulas y condiciones del Contrato revisado. Puede encontrar la última versión del
+presente Contrato en http://www.insepet.com/ en la sección contratos de licencia El
+Autor se reserva el derecho de modificar ocasionalmente las Condiciones Adicionales y
+dichas modificaciones entrarán en vigencia en el momento de ser actualizadas y
+publicadas en el sitio web del Autor.
+6. RENUNCIA A GARANTÍAS Y LIMITACIONES DE RESPONSABILIDAD
+6.1 Ausencia de garantías. EL SOFTWARE SE PROVEE EN SU ESTADO ACTUAL Y CON
+GARANTÍAS LIMITADAS DE ERRORES EN LA PROGRAMACIÓN, Y NO EXISTEN GARANTÍAS
+DE NINGÚN TIPO POR EL ESTADO DE PROGRAMAS O BASES DE DATOS, DEPENDIENDO
+ESTO DEL USO QUE EL USUARIO LE DE, Y LAS CONDICIONES DEL EQUIPO EN QUE SE
+ENCUENTRE INSTALADO U OTRAS CAUSAS DE RIESGO DE LA INFORMACIÓN ELECTRÓNICA.
+EL AUTOR NO OFRECE DE MANERA EXPLÍCITA, IMPLÍCITA NI JURADA GARANTÍAS,
+AFIRMACIONES NI DECLARACIONES DE NINGÚN TIPO CON RESPECTO AL SOFTWARE EN LO
+RELATIVO A, ENTRE OTROS, LA CALIDAD, EL RENDIMIENTO, LA AUSENCIA DE
+INFRACCIONES, LA COMERCIALIZACIÓN O LA APTITUD PARA EL USO O PROPÓSITOS
+PARTICULARES, NI EN LO REFERENTE A PROGRAMAS HECHOS A LA MEDIDA, YA QUE
+ESTOS DEPENDEN DE LA INFORMACIÓN SUMINISTRADA Y LAS GARANTÍAS SE LIMITARÁN
+A LOS DOCUMENTOS DONDE SE SOLICITARON MODIFICACIONES O CAMBIOS AL
+SOFTWARE, SEAN ESTOS EN PAPEL O POR CUALQUIER MEDIO ELECTRÓNICO O POR
+MEDIO DEL SITIO WEB DEL AUTOR. ASIMISMO, NO DECLARA NI GARANTIZA QUE EL
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+SOFTWARE ESTARÁ SIEMPRE DISPONIBLE, ACCESIBLE Y COMPLETO NI QUE SERÁ SEGURO
+O PRECISO, YA QUE DEPENDE DE FACTORES EXTERNOS COMO COMUNICACIONES DE RED,
+TANTO INTRANETS COMO INTERNET O BIEN EL SIMPLE HECHO DE COMUNICACIÓN DE LA
+MEMORIA Y/O PROCESADOR Y/O CUALESQUIERA DISPOSITIVOS DEL EQUIPO EN EL QUE
+ESTÉ INSTALADO EL SOFTWARE. TAMPOCO DECLARA NI GARANTIZA QUE NO SUFRIRÁ
+INTERRUPCIONES O DEMORAS, COMO TAMPOCO QUE ESTARÁ LIBRE DE ERRORES O QUE
+FUNCIONARÁ SIN PÉRDIDA DE PAQUETES. EL AUTOR TAMPOCO GARANTIZA CONEXIONES
+NI TRANSMISIONES DESDE O HACIA INTERNET, NI LA CALIDAD DE LAS MISMAS Y
+NINGUNA OTRA FALLA QUE NO SE EXPRESE EN EL PRESENTE CONTRATO QUE AFECTE
+DIRECTA O INDIRECTAMENTE AL SOFTWARE.
+6.2 Riesgo personal del Usuario. Usted reconoce y acepta que la totalidad del riesgo y/o
+responsabilidades consecuencia del uso del Software corre por Su cuenta.
+6.3 Descargo de responsabilidad. Usted recibe el Software con un tiempo limitado de
+prueba para reclamar garantía, de seis meses. Como el software no es un producto
+tangible, no se realizarán devoluciones de dinero ni en ningún producto o especie, ya que
+por el importe pagado al Autor, usted recibe licencia de uso del software y solo podrá
+reclamar reparaciones y/o modificaciones siempre y cuando señale fallas en el mismo con
+pruebas que es el software el que no funciona correctamente, y cuando haya pagado una
+licencia personalizada; y en ambos casos las reparaciones estarán sujetas a revisiones por
+parte del Autor quien dictaminará la causa de las fallas si fueran por errores en la
+programación o por fallas de hardware o comunicaciones ajenas al
+software. POR CONSIGUIENTE, USTED RECONOCE Y ACEPTA QUE EL AUTOR, SUS
+COMPAÑÍAS AFILIADAS, SUS LICENCIANTES Y SU PERSONAL NO TENDRÁN
+RESPONSABILIDAD ALGUNA QUE SURJA O SE RELACIONE CON EL USO DEL SOFTWARE,
+SEGÚN SE ESTIPULA A CONTINUACIÓN. SU ÚNICO DERECHO O RECURSO LEGAL ANTE
+CUALQUIER PROBLEMA O DISCONFORMIDAD CON EL SOFTWARE ES DESINSTALAR Y
+DEJAR DE USAR EL SOFTWARE INMEDIATAMENTE, O EN SU DEFECTO, PAGAR AL AUTOR
+LAS CORRECCIONES NECESARIAS PARA EFECTOS DEL BUEN FUNCIONAMIENTO DEL
+MISMO.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+6.4 Limitación de responsabilidad. EN NINGÚN CASO EL AUTOR, SUS COMPAÑÍAS
+AFILIADAS, SUS LICENCIANTES NI SU PERSONAL SERÁN RESPONSABLES, YA SEA EN
+CONTRATO, GARANTÍA, AGRAVIO (INCLUIDA NEGLIGENCIA), RESPONSABILIDAD POR
+PRODUCTO, NI NINGUNA OTRA FORMA DE RESPONSABILIDAD, POR LO SIGUIENTE:
+6.4.1 NINGÚN DAÑO ESPECIAL, INCIDENTAL O INDIRECTO (INCLUIDOS, DE MANERA
+ENUNCIATIVA PERO NO TAXATIVA, CUALQUIER PÉRDIDA O CORRUPCIÓN DE DATOS,
+INTERRUPCIÓN, FALLO DEL EQUIPO INFORMÁTICO O PÉRDIDA PATRIMONIAL) QUE SURJA
+DEL USO O LA IMPOSIBILIDAD DE USO DEL SOFTWARE;
+6.4.2 NINGUNA PÉRDIDA DE INGRESOS, O PÉRDIDAS DIRECTAS, OPORTUNIDADES
+COMERCIALES O GANANCIAS (DIRECTAS O INDIRECTAS) QUE SURJAN DEL USO O LA
+IMPOSIBILIDAD DE USO DEL SOFTWARE;
+6.4.3 NINGUNA PÉRDIDA O PERJUICIO EN QUE USTED PUEDA INCURRIR COMO
+CONSECUENCIA DE LO SIGUIENTE:
+(I) TODA INTERRUPCIÓN O DEMORA EN LAS COMUNICACIONES AL UTILIZAR EL
+SOFTWARE;
+(II) LA SUSPENSIÓN O RESCISIÓN DEL PRESENTE CONTRATO POR USTED O EL AUTOR POR
+CUALQUIER MOTIVO;
+(III) LA PRESENTACIÓN DE NUEVAS VERSIONES DEL SOFTWARE O LA DECISIÓN DE NO
+PRESENTÁRSELAS A USTED.
+6.5 LAS LIMITACIONES DE LA RESPONSABILIDAD DEL AUTOR CON RESPECTO A USTED EN
+EL PÁRRAFO 6.4 INDICADO ANTERIORMENTE REGIRÁN INDEPENDIENTEMENTE DE SI EL
+AUTOR, SUS COMPAÑÍAS AFILIADAS O EL PERSONAL DEL AUTOR HAN SIDO NOTIFICADOS
+DE LA POSIBILIDAD DE QUE OCURRAN DICHAS PÉRDIDAS Y PERJUICIOS.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+7. CONDICIONES ADICIONALES
+7.1 Además del presente Contrato, Usted debe cumplir con las siguientes Condiciones
+Adicionales al recibir, instalar y/o utilizar el Software. Le pedimos que lea detenidamente
+estas Condiciones Adicionales, las cuales en su totalidad forman parte del presente
+Contrato:
+• Distribución del Software. Usted no puede distribuir el Software ni ninguna parte que lo
+componga en CD-ROM, DVD u otro medio de almacenamiento físico similar, a menos que
+cumpla con las Condiciones de Distribución y que le sea otorgado el permiso por el Autor.
+Toda distribución adicional del Software está sujeta al párrafo 7.2.
+• El uso de los sitios web del Autor está sujeto a las Condiciones de Uso estipuladas por el
+Autor.
+7.2 Otras excepciones. Si usted desea realizar algo que no está permitido por el presente
+contrato, ni en ninguna de las condiciones adicionales, deberá obtener el previo
+consentimiento por escrito por parte del Autor y aceptar explícitamente cualquier
+condición adicional.
+7.3 Información confidencial y privacidad del Usuario. El Autor se compromete a respetar
+la privacidad y confidencialidad de la información personal o impersonal y de lo contenido
+en las bases de datos del Software. La Política de Privacidad descrita en
+http://www.insepet.com/contratos-de-licencia/ rige el uso que el Autor puede hacer de la
+información contenida en la base de datos del sistema utilizado por el cliente, la
+información de tráfico y el contenido de Sus comunicaciones. Si Usted se opone a que Su
+información sea utilizada de la manera descrita en la Política de Privacidad, absténgase de
+utilizar el Software y de por rescindido el presente contrato.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+8. VARIOS
+8.1 Contrato completo. Las cláusulas y condiciones constituyen la totalidad del acuerdo
+entre Usted y el Autor con respecto a lo aquí tratado y revocan y reemplazan todo
+convenio o contrato anterior sobre estas estipulaciones, independientemente de cuál sea
+la forma de tales instrumentos. Ningún elemento en esta cláusula podrá excluir ni
+restringir la responsabilidad de Usted o del Autor que surgiera de fraude o manifestación
+dolosa.
+8.2 Invalidez parcial. Si algún tribunal u organismo administrativo de jurisdicción
+competente determinara que alguna de las disposiciones de las Cláusulas o Condiciones
+del presente instrumento, o alguna parte de una disposición es ilegal, inválida o no
+ejecutable, y la disposición o parte de la disposición en cuestión no hace a la esencia de las
+Condiciones en su conjunto, la legalidad, validez o capacidad de ejecución del resto del
+Contrato y las Condiciones, incluido el resto de la cláusula que contiene la disposición
+correspondiente, no se verán afectadas.
+8.3 Ausencia de renuncia a derechos. La falta de ejercicio o la demora en ejercer un
+derecho, facultad o recurso previsto por las Condiciones o por la legislación no constituirá
+renuncia a tal derecho, facultad o recurso. Si el Autor renuncia a reclamar por el
+incumplimiento de alguna disposición de las Condiciones, ello no constituirá renuncia a
+reclamar por un incumplimiento subsiguiente de dicha disposición, ni renuncia a reclamar
+por el incumplimiento de alguna otra disposición.
+8.4 Cesión. Usted tiene prohibido ceder las Condiciones o cualquier otro derecho
+adquirido por el presente. El Autor puede, a su exclusivo criterio, ceder las Condiciones o
+cualquiera de los derechos adquiridos por el presente a cualquier tercero, sin necesidad
+de notificación previa.
+8.5 Leyes vigentes y juzgado competente. Las Condiciones se regirán e interpretarán de
+conformidad con las leyes de la República de Colombia, y estarán sujetas a la jurisdicción
+de los tribunales del distrito de la Ciudad de Bogotá D.C, República de Colombia.
+Carrera 90 # 17B – 81 Bodega 20, Bogotá - Colombia
+(57-1) 422 2525 / 01 8000 114 445
+www.insepet.com 
+8.6 Idioma. Es posible que la versión original en español de las Condiciones haya sido
+traducida a otros idiomas. En caso de contradicciones o discrepancias entre la versión en
+español y la de cualquier otro idioma, regirá la versión en español.
+8.7 Continuidad de vigencia. Las condiciones de los párrafos 2,5, 5 y 6 de este Contrato, y
+cualquier otra disposición de las Condiciones Adicionales con respecto a la cual se hubiera
+expresado que seguirá en vigencia o prevalecerá en caso de rescisión, seguirán vigentes
+tras la rescisión del presente Contrato y de las Condiciones Adicionales correspondientes
+por cualquier motivo.
+8.8 Renuncia al Fuero de su Domicilio. Usted renuncia al fuero de su domicilio y se somete
+a los tribunales de la ciudad de Bogotá D.C, República de Colombia. por cualesquiera
+motivos que sea necesario acudir a tribunales o juzgado competente, sea por parte suya o
+por el Autor, a excepción del caso en que el Autor decida un domicilio distinto.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CONTRATO DE LICENCIA Y SOPORTE DE SOFTWARE
+Términos y condiciones generales
+("TCG")
+1. DEFINICIONES
+1.1 “Add-on” hace referencia a cualquier desarrollo que añada funcionalidad nueva e independiente, pero que no modifique una 
+funcionalidad SAP existente, y se desarrolle usando interfaces de programación de la aplicación SAP u otro código de SAP que permita
+que otros productos de software se comuniquen con el Software de SAP o lo utilicen.
+1.2 “Filial” hace referencia a cualquier entidad legal del Territorio de la que el Licenciatario, de manera directa o indirecta, posea 
+más del cincuenta por ciento (50%) de las acciones o los derechos de voto. Cualquier entidad legal de este tipo se considerará una 
+Filial únicamente durante el período de tiempo en el que se conserven dichas acciones o derechos de voto.
+1.3 “Contrato” hace referencia al contratotal como está definido en el Formulario de Pedido de Software.
+1.4 “Partner Empresarial” hace referencia a una entidad legal o una persona física que necesite acceso al software en relación con 
+las operaciones empresariales internas del Licenciatario, como por ejemplo clientes, distribuidores y/o proveedores del Licenciatario.
+1.5 “Información confidencial” hace referencia, con respecto al Licenciatario: a los planes de marketing y de negocio y/o la 
+información financiera, y con respecto a SAP : (a) al Software y la Documentación y otros Materiales de SAP, incluyendo, sin limitarse 
+a ello, la información siguiente con respecto al Software: (i) software informático (códigos objeto y fuente), técnicas de programación 
+y conceptos de programación, métodos de procesamiento, diseños de sistemas integrados en el Software; (ii) resultados de los estudios 
+comparativos, manuales, listados de programas, estructuras de datos, diagramas de flujo, diagramas lógicos, especificaciones 
+funcionales, formatos de archivos; y (iii) descubrimientos, inventos, conceptos, diseños, diagramas de flujo, documentación, 
+especificaciones de productos, especificaciones de las interfaces de programas de la aplicación, técnicas y procesos relacionados con 
+el Software; (b) la investigación y el desarrollo o los estudios de SAP; y (c) ofertas de productos, socios de contenido, precios de 
+productos, disponibilidad de productos, dibujos técnicos, algoritmos, procesos, ideas, técnicas, formulas, datos, esquemas, secretos 
+comerciales, conocimientos, mejoras, planes de marketing, previsiones y estrategias. Además, la Información Confidencial de SAP o 
+del Licenciatario (la parte que divulga dicha información es la "Parte Divulgadora") también incluie información que la Parte Divulgadora 
+protege contra la divulgación sin restricciones a otras personas que (i) la Parte Divulgadora o sus representantes identifiquen como 
+confidencial en el momento de su divulgación o (ii) se deba entender razonablemente que es confidencial por la naturaleza de la 
+información y las circunstancias que rodean a su divulgación; incluida, sin limitación, la información de terceros, sobre ellos, o 
+relacionada con ellos, que se divulgue en virtud de este Contrato. 
+1.6 “Unidad Designada” hace referencia a dispositivos de tecnología de la información (por ej. discos duros o unidades centrales de 
+procesamiento) que el Licenciatario haya identificado de acuerdo con este Contrato y que se hayan puesto en conocimiento del público 
+de forma oficial como adecuados para el Uso o la interoperabilidad con el Software.
+1.7 “Documentación” hace referencia a la documentación técnica y/u funcional de SAP en vigor en ese momento entregada o puesta 
+a disposición del Licenciatario con el Software en virtud de este Contrato.
+1.8 “Derechos de Propiedad Intelectual” hace referencia a patentes de cualquier clase, derechos de diseño, modelos de utilidad u 
+otros derechos de invención similares, derechos de propiedad intelectual, derechos sobre los esquemas de trazado de circuitos
+integrados, secretos comerciales o derechos de confidencialidad, marcas y nombres comercialesy cualquier otro derecho de propiedad 
+no tangible, incluidas las solicitudes y los registros de los anteriores, en cualquier país, surgidos a raíz de derecho consuetudinario o 
+disposición legal o por contrato, perfeccionado o no, existente en el momento actual o presentado, emitido o adquirido en adelante.
+1.9 “Modificación” hace referencia a (i) un cambio en el código fuente o los metadatos proporcionados; o (ii) cualquier desarrollo, 
+diferente a un cambio en el código fuente o los metadatos suministrados, que personalice, mejore o modifique la funcionalidad existente 
+del Software, incluyendo, pero sin limitarse a este supuesto, la creación de cualquier nueva interfaz de aplicación o interfaz de usuario 
+alternativa, la ampliación de las estructuras de datos de SAP; o (iii) o cualquier otra modificación que se realice en el Software (que 
+no sea un Add-on) que utilice o integre Materiales de SAP (tal como se definen a continuación). 
+1.10 “Materiales de SAP” hace referencia a cualquier software, programa, herramienta, sistema, dato u otro material que SAP ponga 
+a disposición del Licenciatario antes o durante la ejecución de este Contrato, incluido, pero sin limitarse a este supuesto, el Software 
+y la Documentación, así como cualquier tipo de información, material o comentario que el Licenciatario proporcione a SAP en relación 
+con el Software y la Documentación.
+1.11 “Soporte de SAP” hace referencia a la oferta de soporte entonces vigente de SAP puesta a disposición del Licenciatario, según 
+se especifica en el Formulario de Pedido de Software aplicable que forma parte del presente Contrato.
+1.12 “Software” hace referencia a (i) todos los productos de software licenciados al Licenciatario de conformidad con este Contrato, 
+según lo establecido en los Formularios de Pedido de Software adjuntos al presente, desarrollados por o para SAP, SAP SE y/o cualquiera 
+de sus empresas filiales y suministrados al Licenciatario por el presente documento; (ii) cualquier nueva versión o actualización de los 
+mismos puesta a disposición a través de envíos sin restricciones de conformidad con el Soporte de SAP o las obligaciones de garantía 
+y (iii) cualquier copia completa o parcial de los anteriores.
+1.13 “Formulario de Pedido de Software” hace referencia al formulario de pedido del Software, el Software de Terceros y el Soporte 
+de SAP relacionado solicitado por el Licenciatario en el mismo, incluida la información sobre el Software, el Software de Terceros, el 
+Soporte de SAP, las cuotas y cualquier otra información necesaria para la entrega de los mismos al Licenciatario. 
+1.14 “Territorio” hace referencia al territorio especificado en el Formulario de Pedido de Software.
+SAP General Terms and Conditions On Premise esES.v.4-2021 Page 2 of 6
+1.15 “Software de Terceros” hace referencia a (i) todos los productos de software y contenidos licenciados al Licenciatario de 
+conformidad con este Contrato, según lo establecido en los Formularios de Pedido de Software adjuntos al presente, desarrollados por 
+empresas que no sean SAP, SAP SE y/o cualquiera de sus empresas filiales y suministrados al Licenciatario por el presente documento; 
+(ii) cualquier nueva versión o actualización de los mismos puesta a disposición a través del Soporte de SAP o las obligaciones de 
+garantía y (iii) cualquier copia completa o parcial de los anteriores. 
+1.16 “Uso” hace referencia a la activación de las funciones de procesamiento del Software, la carga, la ejecución, el acceso, el uso 
+del Software o la visualización de la información como resultado de dichas funciones. 
+1.17 “Términos de Uso” hace referencia al documento de los Derechos de Uso del Software tal como se define en el Formulario de 
+Pedido del Software. 
+2. CONCESIÓN DE LICENCIA
+2.1 Licencia
+2.1.1 Sujeto al cumplimiento por parte del Licenciatario de todos los términos y condiciones de este Contrato, SAP concede al 
+Licenciatario una licencia no exclusiva, no transferible, por tiempo indefinido (excepto en el caso de las licencias basadas en 
+suscripciones) para utilizar el Software, la Documentación y otros Materiales de SAP en el sitio o los sitios especificados dentro del 
+Territorio para llevar a cabo las operaciones empresariales internas del Licenciatario y sus Filiales (incluyendo las copias de seguridad 
+de los clientes y la recuperación pasiva de desastres) y para proporcionar formación y comprobaciones internas para dichas operaciones 
+empresariales internas, salvo que hayan finalizado de conformidad con los términos de este Contrato. El Licenciatario podrá realizar 
+Modificaciones y Add-ons en el Software de conformidad con el Uso permitido de acuerdo con este Contrato, y tendrá permitido usar 
+las Modificaciones y los Add-ons con el Software de acuerdo con la Sección 2.1.1 y la 6.3. El Licenciatario no deberá: (i) usar los 
+Materiales de SAP para proporcionar servicios a terceros (por ej., subcontratación de procesos empresariales, aplicaciones de centro 
+de servicios o formación de terceros) que no sean las Filiales (de acuerdo con la Sección 2.2); (ii) alquilar, prestar, revender, 
+sublicenciar o distribuir de otra forma los Materiales de SAP, distinto de la distribución a Filiales (de acuerdo con la Sección 2.2); (iii) 
+distribuir o publicar códigos clave; (iv) Utilizar de cualquier forma los Materiales de SAP o realizar cualquier acto con ellos que no sean 
+los que estén permitidos de forma expresa de acuerdo con los términos de este Contrato; (v) usar los componentes de Software que 
+no sean los que están identificados de forma específica en el Formulario de Pedido del Software, incluso si técnicamente fuese posible 
+que el Licenciatario acceda a otros componentes del Software. El Licenciatario puede permitir que los Partners Empresariales hagan 
+Uso del Software solo a través del acceso por pantalla, únicamente de forma conjunta con el Uso del Licenciatario, y no pueden hacer 
+Uso del Software para llevar a cabo operaciones empresariales de los Partners Empresariales. 
+2.1.2 El Licenciatario acepta instalar el Software solamente en Unidades Designadas ubicadas en las instalaciones del Licenciatario y 
+en posesión directa del Licenciatario. Mediante un aviso escrito previo a SAP, los dispositivos de tecnología de la información también 
+pueden estar ubicados en las instalaciones de una Filial y en posesión directa de la Filial. El Licenciatario debe disponer de las licencias 
+necesarias según se especifica en las Condiciones de Uso para los individuos que utilicen el Software, incluidos empleados o agentes 
+de Filiales y Partners Empresariales. El Uso se puede llevar a cabo mediante una interfaz suministrada con o como parte del Software, 
+la interfaz de un Licenciatario o de un tercero, o cualquier otro sistema intermediario. Si el Licenciatario recibe un Software licenciado 
+que sustituye al anterior Software licenciado, sus derechos de conformidad con este Contrato en lo relativo al anterior Software 
+licenciado finalizan cuando instale el Software de sustitución para su Uso en los sistemas productivos posteriormente a un periodo de 
+prueba razonable. En la fecha en que finalicen los derechos del Software previamente licenciado, el Licenciatario deberá cumplir con 
+la Sección 5.2 de este Contrato con respecto a ese Software preivamente licenciado.
+2.1.3 Los términos y condiciones de este Contrato referidos al “Software” se aplican al Software de Terceros con la excepción de que 
+(i) el Licenciatario no deberá realizar Modificaciones y/o Add-ons al Software de Terceros ni tampoco deberá modificar de otra forma 
+el Software de Terceros salvo que SAP le autorice de forma expresa; y (ii) sujeto a la Sección 12.9, se especifique de otra forma en 
+los Términos de Uso.
+2.2 Uso de las Filiales. El Uso por parte de las Filiales del Software, la Documentación y otros Materiales de SAP para ejecutar sus 
+operaciones empresariales internas tal como se permite en la Sección 2.1.1 queda sujeto a las condiciones siguientes: (i) el Licenciatario 
+garantice que la Filial acepta por escrito cumplir los términos estipulados en este Contrato; y (ii) el incumplimiento de los términos de 
+este Contrato por parte de la Filial se considerará un incumplimiento por parte del Licenciatario. Si el Licenciatario tiene una filial o 
+subsidiaria con un contrato independiente para las licencias o el soporte de software de SAP con SAP SE, concualquier filial de SAP SE
+(incluyendo SAP) o con cualquier otro distribuidor de software de SAP, el Software no se utilizará para ejecutar las operaciones 
+empresariales de dicha filial o subsidiaria y esta tampoco recibirá ningún servicio de soporte de conformidad con este Contrato, aunque 
+dicho contrato independiente haya vencido o haya sido terminado, salvo que las partes hayan acordado lo contrario por escrito.
+ 
+2.3 Proveedores de Servicios. Con el consentimiento previo por escrito de SAP, el Licenciatario puede autorizar a los proveedores 
+de servicios el acceso al Software únicamente con el objetivo de proporcionar al Licenciatario servicios de implementación, de sistema, 
+de gestión de aplicaciones o de recuperación de desastres, relacionados con el negocio del Licenciatario para el cual el Software 
+especificado en el presente Contrato disponga de licencia siempre que: (i) estos derechos solamente sigan vigentes si el Licenciatario 
+y dicho proveedor de servicios tienen suscrito un contrato escrito que incluya disposiciones que especifiquen que el proveedor de 
+servicios debe cumplir los términos de este Contrato antes de disponer de acceso, incluyendo, sin limitación, la no revelación de la 
+Información Confidencial de SAP; (ii) El Licenciatario debe disponer de las licencias necesarias para todos los empleados de dicho 
+proveedor de servicios autorizado para acceder al Software; (iii) Dicho proveedor de servicios estará autorizado a Usar el Software 
+únicamente para instalar y configurar el mismo conforme al negocio del Licenciatario tal como se especifica en el presente documento 
+(o, en el caso de una empresa de recuperación de desastres, para prestar únicamente servicios de recuperación de desastres); (iv) 
+Bajo ninguna circunstancia dicho proveedor de servicios hará Uso del Software para operar o para proporcionar servicios de 
+procesamiento al Licenciatario o a cualquier otra parte, o en relación con las operaciones empresariales de ese proveedor de servicios; 
+(v) El Licenciatario será responsable de cualquier software adicional, herramienta de migración o Software de Terceros necesario para 
+realizar dicha transición; y (vi) el Licenciatario acepte de manera expresa indemnizar a SAP y a sus directivos, empleados, agentes y 
+subcontratistas por cualquier tipo de reclamación, responsabilidad, pérdida, daño y coste (incluidas las minutas de abogado 
+correspondientes) que SAP pueda sufrir como resultado de un quebrantamiento de las condiciones de este Contrato por parte del 
+SAP General Terms and Conditions On Premise esES.v.4-2021 Page 3 of 6
+proveedor de servicios. A petición de SAP, el Licenciatario proporcionará a SAP una confirmación por escrito del cumplimiento de los 
+apartados (i)-(iv). 
+3. AUDITORIAS. SAP estará autorizada a realizar auditorías (como mínimo, una vez año y según los procedimientos estándar de 
+SAP, que pueden incluir auditorías en las instalaciones del Licenciatario y/o auditorías remotas) sobre el uso de los Materiales de SAP. 
+El Licenciatario deberá cooperar de manera razonable en la realización de dichas auditorías. En el caso de que una auditoría revele 
+que (i) el Licenciatario ha pagado de menos por las cuotas de licencia y/o las cuotas de Soporte de SAP a SAP y/o que (ii) el Licenciatario 
+ha hecho un Uso del Software superior a la cantidad de licencias o los niveles especificados en el Formulario de Pedido de Software, el 
+Licenciatario deberá pagar dichas cuotas pagadas de menos y/o el exceso de uso en base a la lista de precios de SAP en vigor en ese 
+momento, a los términos y condiciones vigentes en el momento de la auditoría, y deberá firmar un Formulario de Pedido de Software 
+adicional para incluir las licencias necesarias en cualquier cantidad o nivel adicional. El Licenciatario deberá pagar los costes razonables 
+de una auditoría de SAP si los resultados de la auditoría indican que se ha superado el uso de las cantidades o niveles permitidos por 
+la licencia. SAP se reserva todos los derechos a reclamar los pagos de menos de cuotas de licencia o cuotas de Soporte de SAP y el 
+exceso de las cantidades o niveles de uso permitidos por la licencia por parte del Licenciatario.
+4. PRECIO Y PAGO
+4.1 Cuotas. El Licenciatario deberá pagar a SAP las cuotas de licencia de Software y las cuotas de Soporte que se especifican en 
+los Formularios de Pedido del Software. Cualquier cuota que no se pague al vencimiento devengará intereses de demora, pero no 
+superará la cantidad máxima legalmente permitida. Las cuotas de Licenciatario incluyen los costes de entrega y embalaje inicial para 
+envíos físicos. En los casos de entrega electrónica, SAP permitirá la descarga del Software desde una red y correrá con los gastos de 
+dicha red, y el Licenciatario solo deberá hacerse responsable de los costes de la descarga del Software. El Licenciatario reconoce que 
+una orden de compra solamente es para finalidades administrativas y que el Licenciante tiene derecho a emitir una factura y recibir el 
+pago sin la necesidad de que exista una orden de compra.
+4.2 Impuestos. Las cuotas y otros gastos descritos en este Contrato no incluyen los impuestos sobre ventas, el Impuestos sobre el 
+Valor Añadido, las retenciones de impuestos, los impuestos sobre el consumo, la propiedad, impuestos especiales, sobre servicios o 
+similares (“Impuestos”) que se apliquen en la actualidad o posteriormente, todos los cuales serán a cargo del Licenciatario. Cualquier 
+autorización de pago directo o cualquier certificado de exención de impuestos válidos deberá presentarse a SAP previamente a la 
+formalización de este Contrato. Si se exige a SAP el pago de Impuestos, el Licenciatario deberá reembolsar dichos importes a SAP. Por 
+el presente, el Licenciatario acepta indemnizar a SAP por cualquier Impuesto y coste relacionado, interés o penalización pagada o que 
+SAP deba pagar.
+5. PLAZO
+5.1. Plazo. Este Contrato y la licencia concedida por el presente entrarán en vigor a partir de la fecha especificada en el Formulario 
+de Pedido de Software y seguirá vigente hasta que se termine por la causa siguiente que primero ocurra: (i) treinta días después de 
+que el Licenciatario envíe a SAP una notificación escrita de la decisión del Licenciatario de terminar este Contrato, por cualquier motivo, 
+pero únicamente previo pago de las cuotas de Licencia y Soporte de SAP que estén pendientes; (ii) treinta días después de que SAP 
+envíe al Licenciatario una notificación escrita del incumplimiento material del Licenciatario de cualquier disposición del Contrato 
+(diferente al incumplimiento de las obligaciones del Licenciatario según las Secciones 6, 10 u 11, cuyo quebrantamiento daría como 
+resultado una terminación inmediata), incluyendo un retraso en el pago por parte del Licenciatario de cualquier cuota derivada del 
+presente Contrato, salvo que el Licenciatario subsane dicho incumplimiento durante este período de treinta días; (iii) de manera 
+inmediata, si el Licenciatario presenta solicitud de concurso, se vuelve insolvente, o realiza una cesión en beneficio de los acreedores
+y existe deuda pendiente. Para evitar cualquier tipo de duda, la finalización de este Contrato se aplicará estrictamente a todo el 
+Software licenciado en virtud de este Contrato, sus apéndices, adendas, anexos y documentos de pedido, y no se permitirá la 
+finalización parcial del Contrato por parte del Licenciatario de cualquiera de las partes de este Contrato, sus apéndices, adendas, 
+anexos o documentos de pedido.
+5.2 Fin de las Obligaciones. En caso de terminación del presente Contrato, el Licenciatario y sus Filiales deberán dejar de utilizar 
+inmediatamente todos los Materiales e Información Confidencial de SAP. En un plazo de treinta (30) días tras la terminación, el 
+Licenciatario deberá destruir completamente o, si SAP así lo solicita, devolver a SAP, todas las copias de los Materiales y la Información 
+Confidencial de SAP en todos los formatos, salvo que sea legalmente necesario que la conserve durante un período mayor; en ese 
+caso, la devolución o la destrucción se llevará a cabo al finalizar dicho período. El Licenciatario debe certificar a SAP por escrito que ha 
+cumplido sus obligaciones conforme a esta Sección 5.2. El Licenciatario acepta certificar por escrito a SAP que él y todas sus Filiales 
+han llevado a cabo lo anteriormente establecido. Las Secciones 3, 4, 5.2, 6, 7.2, 8, 9, 10, 12.4, 12.5, 12.6 y 12.8 permanecerán 
+vigentes tras la terminación. En el caso de terminación del presente Contrato, el Licenciatario no tendrá derecho al reembolso de los 
+pagos realizados. La terminación no libera al Licenciatario de su obligación de pagar las cuotas que estén pendientes.
+6. DERECHOS DE PROPIEDAD INTELECTUAL
+6.1 Reserva de Derechos. Los Materiales de SAP, y todos los Derechos de Propiedad Intelectual integrados en el presente Contrato, 
+serán de única y exclusiva propiedad de SAP, SAP SE (la empresa matriz de SAP) o sus licenciantes, de conformidad con cualquier 
+derecho concedido de manera expresa al Licenciatario en las Secciones 2 y 6.3 del presente documento. Salvo en el caso de los 
+derechos especificados en las Secciones 2 y 6.3 del presente Contrato, el Licenciatario no está autorizado a modificar o a realizar obras 
+derivadas del Software o de otros Materiales de SAP. 
+6.2 Protección de Derechos. El Licenciatario no deberá copiar, traducir, desensamblar, descompilar ni realizar ingeniería inversa del 
+Software u otro Material de SAP. El Licenciatario no deberá crear ni intentar crear el código fuente a partir del código objeto del 
+Software u otros Materiales de SAP. El Licenciatario está autorizado a recuperar los datos conforme a las buenas prácticas de las 
+tecnologías de la información y, con esta finalidad, a crear las copias de seguridad necesarias del Software. Las copias de seguridad 
+en discos portátiles u otros medios de almacenamiento de datos deben estar marcadas como copias de seguridad y estarán sujetas al 
+mismo copyright e indicaciones de de titularidad que los discos originales u otros medios de almacenamiento de datos, salvo que sea 
+técnicamente inviable. El Licenciatario no debe modificar ni eliminar el copyright ni las indicaciones de titularidad de SAP. 
+SAP General Terms and Conditions On Premise esES.v.4-2021 Page 4 of 6
+6.3 Modificaciones/Add-ons 
+6.3.1 El Licenciatario debe completar el procedimiento de registro de SAP antes de realizar cualquier Modificación o crear cualquier 
+Add-on. Todas las Modificaciones y todos los derechos asociados a las mismas serán propiedad exclusiva de SAP, SAP SE o sus 
+licenciantes. Todos los Add-ons desarrollados por SAP (ya sea independientemente o de manera conjunta con el Licenciatario) y todos 
+los derechos asociados a los mismos serán propiedad exclusiva de SAP, SAP SE o sus licenciantes. El Licenciatario acepta formalizar 
+todos los documentos razonablemente necesarios para garantizar los derechos de SAP sobre las Modificaciones y Add-ons 
+anteriormente establecidos. Todos los Add-ons desarrollados por o en nombre del Licenciatario sin participación de SAP ("Add-on del 
+Licenciatario"), y todos los derechos asociados a los mismos, serán propiedad exclusiva del Licenciatario sujetos a los derechos de SAP 
+sobre el Software y los Materiales de SAP, siempre que el Licenciatario no comercialice, comercie con, distribuya, otorgue licencias o 
+sublicencias, o transfiera, ceda o enajene de cualquier otro modo cualquiera de dichos Add-ons del Licenciatario. SAP se reserva el 
+derecho a desarrollar de manera independiente sus propios Add-ons o Modificaciones para el Software, y el Licenciatario acepta no 
+llevar a cabo ninguna acción que pudiera limitar la venta, la cesión o la distribución de licencias o el uso de SAP de su Software, sus 
+Modificaciones o sus Add-ons. 
+6.3.2 Cualquier Modificación desarrollada por o en nombre del Licenciatario sin participación de SAP, o cualquier Add-on del 
+Licenciatario, no deberá (sujeto a otras limitaciones especificadas en el presente documento): permitir el desvío o la elusión de 
+cualquiera de las restricciones especificadas en este Contrato y/o proporcionar al Licenciatario acceso a un Software para el cual el 
+Licenciatario no dispone de licencia directa; alterar, degradar o reducir el rendimiento o la seguridad del Software; proporcionar o 
+transferir cualquier información relativa a los términos de licencia de software de SAP, al Software o cualquier otra información 
+relacionada con los Materiales de SAP.
+6.3.3 El Licenciatario acepta, en nombre propio y en el de sus sucesores y cesionarios, no reivindicar frente a SAP o sus empresas 
+filiales, o sus revendedores, distribuidores, proveedores, socios comerciales y clientes, ningún derecho sobre cualquier (i) Add-on o 
+Modificación del Licenciatario, u (ii) otra funcionalidad del Software de SAP a la que acceda este Add-on o Modificación del Licenciatario. 
+7. GARANTÍA DE RENDIMIENTO
+7.1 Garantía. SAP garantiza que el Software se ajustará sustancialmente a las especificaciones que contiene la Documentación 
+durante los seis meses siguientes a la entrega. La garantía no se aplicará: (i) si el Software no se utiliza según lo establecido en la 
+Documentación; o (ii) si el defecto ha sido provocado por una Modificación o un Add-on (que no sea una Modificación o un Add-on 
+realizado por SAP y suministrado a través de Soporte de SAP o bajo la garantía), por el Licenciatario o por Software de Terceros; o 
+(iii) a ninguna actividad no licenciada del Licenciatario. SAP no garantiza que el Software opere de manera ininterrumpida o que esté 
+libre de defectos o errores mínimos que no afecten materialmente al rendimiento, o que las aplicaciones que contenga el Software 
+hayan sido diseñadas para cubrir todos los requisitos empresariales del Licenciatario. Cuando el Licenciatario notifique a SAP por escrito 
+una descripción específica del incumplimiento del Software dentro del período de garantía y SAP verifique la existencia de dicho 
+incumplimiento, SAP, a su discreción: a) reparará o sustituirá el Software que no cumpla los requisitos, o b) reembolsará las cuotas 
+de licencia pagadas por el Software que no cumpla los requisitos a cambio de la devolución de dicho Software. Esta es la única 
+reparación que se le ofrece al Licenciatario conforme a esta garantía. 
+7.2 Exención de Responsabilidad Expresa SAP Y SUS LICENCIANTES SE EXIMEN DE CUALQUIER OTRA GARANTÍA EXPRESA O 
+IMPLÍCITA, INCLUIYENDO, SIN LIMITARSE A ESTOS SUPUESTOS, CUALQUIER GARANTÍA DE COMERCIALIZACIÓN O IDONEIDAD PARA 
+UNA FINALIDAD ESPECÍFICA, SALVO CUANDO LAS GARANTÍAS LEGALES NO SEAN RENUNCIABLES.
+8. RECLAMACIONES DE TERCEROS
+8.1 Infracción y Defensa del Licenciatario. SAP defenderá al Licenciatario de las reclamaciones que cualquier tercero haga en el 
+Territorio alegando que el Uso que hace el Licenciatario del Software, según los términos y condiciones de este Contrato, constituye 
+un quebrantamiento directo o una apropiación indebida de una o varias patentes, derechos de autor o derechos sobre secretos 
+comerciales de este tercero, y SAP pagará la indemnización a la que finalmente se condene al Licenciatario por un tribunal competente 
+(o la cantidad que SAP haya acordado transaccionalmente) respecto a dichas reclamaciones. Esta obligación de SAP no será aplicable 
+si la infracción o la apropiación indebida de la que se acusa al Licenciatario es resultado del (i) Uso del Software de manera conjunta 
+con otro software; (ii) el Uso del Software en un equipo diferente a la Unidad Designada; (iii) la falta de utilización con prontitud de 
+una actualización suministrada por SAP si dicha infracción o apropiación indebida podría haberse evitado mediante el uso de dicha 
+actualización; o (iv) cualquier Uso que este Contrato no permita. Esta obligación de SAP tampoco se aplicará si el Licenciatario no 
+notifica de forma inmediata por escrito a SAP cualquiera de estas reclamaciones; sin embargo si el Licenciatario no proporciona esa 
+notificación o lo hace con retraso ello no liberará a SAP de sus obligaciones en virtud de esta Sección salvo en la medida en que SAP 
+quede perjudicado por el hecho de que el Licenciatario no haya efectuado esa notificación o lo haya hecho con retraso. SAP tiene 
+permiso para controlar por completo la defensa y cualquier acuerdo transaccional frente a cualquier reclamación siempre y cuando ese 
+acuerdo no incluya una obligación financiera para el Licenciatario o una admisión de responsabilidad por su parte. En el caso de que el 
+Licenciatario decline la defensa brindada por SAP, o de cualquier otro modo no le otorgue al asesor designado por SAP todo el control 
+de la defensa, el Licenciatario renunciará a las obligaciones de SAP en virtud de esta Sección 8.1. El Licenciatario debe cooperar de 
+forma razonable en la defensa de dicha reclamación y debe ser representado, a su costa, por un abogado razonablemente aceptable 
+para SAP. SAP se reserva expresamente el derecho a no asumir la defensa de ninguna reclamación en el caso de que deje de 
+considerarse que el Software infringe o se apropia indebidamente de los derechos de tercero. SAP podrá resolver o mitigar los daños 
+de cualquier reclamación o reclamación potencial mediante la sustitución por programas sustancialmente equivalentes que sean 
+conformes a la legalidad y proporcionar la documentación para el Software. El Licenciatario no llevará a cabo ninguna acción como 
+respuesta a cualquier infracción o apropiación indebida, o acusación de infracción o apropiación indebida del Software si resulta 
+perjudicial para los derechos de SAP.
+8.2 LAS DISPOSICIONES DE ESTA SECCIÓN 8 ESTABLECEN LA RESPONSABILIDAD ÚNICA, EXCLUSIVA Y COMPLETA DE SAP Y DE 
+SUSLICENCIANTES AL LICENCIATARIO, Y LA ÚNICA COMPENSACIÓN PARA ELEL LICENCIATARIO, POR LO QUE RESPECTA A LA 
+INFRACCIÓN O LA APROPIACIÓN INDEBIDA DE LOS DERECHOS DE PROPIEDAD INTELECTUAL DE TERCEROS.
+SAP General Terms and Conditions On Premise esES.v.4-2021 Page 5 of 6
+9. LIMITACIONES DE LA RESPONSABILIDAD
+9.1 Exención de Responsabilidad. SAP y sus licenciantes no serán responsables en virtud de este Contrato: (i) si el Software no se 
+utiliza de acuerdo con la Documentación; o (ii) si el defecto o la responsabilidad la causa el Licenciatario, una Modificación o un Addon (excepto una Modificación o Add-on efectuado por SAP que se proporcione mediante el Soporte de SAP o bajo el periodo de garantía), 
+o un software de terceros; o (iii) si el Software se usa conjuntamente con un software de terceros del que el Licenciatario no dispone 
+de los derechos suficientes del tercero para dicho uso; o (iv) por cualquier actividad del Licenciatario que no esté permitida en virtud 
+de este Contrato. SAP Y SUS LICENCIANTES NO SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN O DAÑO QUE SURJA DE UN USO 
+INAPROPIADO DEL SOFTWARE Y/O DEL SOFTWARE DE TERCEROS LICENCIADO POR EL PRESENTE CONTRATO.
+9.2 Exclusión de Daños; Limitación de Responsabilidad. SALVO QUE CUALQUIER DISPOSICIÓN DEL PRESENTE DOCUMENTO 
+INDIQUE LO CONTRARIO, EXCEPTO EN EL CASO DE (I) DAÑOS COMO RESULTADO DE (a) EL USO NO AUTORIZADO O LA REVELACIÓN 
+DE INFORMACIÓN CONFIDENCIAL; O (b) MUERTE O DAÑOS PERSONALES QUE SURJAN DE UNA NEGLIGENCIA GRAVE O DE UNA 
+CONDUCTA DOLOSA DE CUALQUIERA DE LAS PARTES; O (II) LAS OBLIGACIONES DE SAP EN VIRTUD DE LA SECCIÓN 8.1; O (III) EL 
+DERECHO DE SAP DE OBTENER EL PAGO DE LAS CUOTAS IMPAGADAS, BAJO NINGUNA CIRCUNSTANCIA E INDEPENDIENTEMENTE 
+DE LA NATURALEZA DE CUALQUIER RECLAMACIÓN, SAP, SUS LICENCIANTES O EL LICENCIATARIO SERÁN RESPONSABLES ENTRE 
+ELLOS O FRENTE A CUALQUIER OTRA PERSONA O ENTIDAD, POR CUALQUIER CANTIDADQUE SUPERE LAS CUOTAS DE LICENCIA 
+PAGADAS POR EL SOFTWARE QUE HAYA PROVOCADO DIRECTAMENTE LOS DAÑOS, NI SERÁN RESPONSABLES DE CUALQUIER 
+IMPORTE POR DAÑOS ESPECIALES, FORTUITOS, IMPREVISTOS O INDIRECTOS, PÉRDIDAS DE FONDO DE COMERCIO O LUCROS 
+CESANTES, INTERRUPCIÓN DE LAS ACTIVIDADES EMPRESARIALES, PÉRDIDA DE DATOS, FALLOS O MAL FUNCIONAMIENTO 
+INFORMÁTICO, CUOTAS DE ABOGADOS, COSTES JURÍDICOS, INTERESES O DAÑOS EJEMPLARES O PUNITIVOS. EN CASO DE QUE 
+ALGUNA DE LAS EXCLUSIONES O LIMITACIONES DE RESPONSABILIDAD CIVIL SUPRA MENCIONADAS RESULTE INVÁLIDA O NO PUEDA 
+SER APLICABLE POR FUERZA NORMA IMPERATIVA, DICHA INVALIDEZ O INAPLICABILIDAD NO AFECTARÁ AL RESTO DE LA SECCIÓN.
+9.3 Exclusiones y Limitaciones del Software de Terceros. SUJETO A LA EXCLUSIÓN DE LOS DAÑOS ESTIPULADOS EN LA SECCIÓN 
+9.2 Y CON RESPECTO AL SOFTWARE DE TERCEROS, BAJO NINGUNA CIRCUNSTANCIA E INDEPENDIENTEMENTE DE LA NATURALEZA 
+DE CUALQUIER RECLAMACIÓN, SAP O SUS LICENCIANTES SERÁN RESPONSABLES DE CUALQUIER CANTIDAD SUPERIOR A LA CUOTA 
+DE LA LICENCIA PAGADA POR EL SOFTWARE DE TERCERO QUE CAUSE DIRECTAMENTE LOS DAÑOS.
+9.4 Las disposiciones de este Contrato reparten los riesgos entre SAP y el Licenciatario. Las cuotas de licencia reflejan esta reparto 
+de riesgos y las limitaciones de responsabilidad especificadas en el presente Contrato.
+10. CONFIDENCIALIDAD
+10.1. Uso de la Información Confidencial. La Información Confidencial no debe reproducirse de ningún modo, salvo el necesario para 
+cumplir la finalidad de este Contrato. Cualquier reproducción de la Información Confidencial continuará siendo propiedad de la Parte 
+Divulgadora y contendrá todas los avisos de confidencialidad o las leyendas que aparezcan en la original. Con respecto a la Información 
+Confidencial del otro, cada parte (a) deberá tomar los Pasos Razonables (definidos a continuación) para mantener la Información 
+Confidencial estrictamente como tal; y (b) no deberá divulgar ninguna Información Confidencial de la otra parte a ninguna persona
+que no sean personas de buena fe cuyo acceso sea necesario para permitirle que ejerza sus derechos y/o realizar sus obligaciones en 
+virtud del presente Contrato y que estén sometidas a obligaciones de confidencialidad sustancialmente similares a aquellas establecidas 
+en el presente Contrato. En el sentido aquí utilizado, "Pasos Razonables" hace referencia a aquellos pasos que la parte receptora sigue 
+para proteger su propia información exclusiva y confidencial, que no será menos que un estándar de atención razonable. La Información 
+Confidencial de cualquiera de las partes revelada antes de la ejecución de este Contrato estará sujeta a la protección especificada en 
+el presente Contrato.
+10.2 Excepciones. Las anteriores restricciones relativas al uso o a la revelación de la Información Confidencial no se aplicarán a la 
+Información Confidencial que: (a) haya sido desarrollada independientemente por la parte receptora sin ninguna referencia a la 
+Información Confidencial de la Parte Divulgadora, o que se haya recibido legalmente libre de la prohibición de un tercero de proporcionar 
+dicha Información Confidencial; (b) haya pasado a estar disponible públicamente de manera general por la parte receptora sin infringir 
+este Contrato; (c) en el momento de la revelación, era parte del conocimiento de la parte receptora libre de cualquier tipo de restricción; 
+o (d) la Parte Divulgadora haya aceptado por escrito que está libre de dichas restricciones. 
+10.3 Términos y Condiciones Confidenciales; Publicidad. El Licenciatario no revelará los términos y condiciones de este Contrato o los 
+precios que se definen en él a ningún tercero. Ninguna de las partes utilizará el nombre de la otra parte en publicidad, anuncios o 
+actividades similares, sin un consentimiento previo por escrito de la otra parte, salvo que el Licenciatario acepta que SAP y sus empresas 
+filiales pueden utilizar el nombre del Licenciatario en listas de clientes o, aceptado de manera mutua por ambas partes, como parte 
+de las actividades de marketing de SAP (incluidas, sin ningún tipo de limitación, las llamadas de referencia y historias, los testimonios 
+de prensa, las visitas a las páginas Web o la participación en SAPPHIRE). SAP hará todo lo razonablemente posible para evitar que las 
+actividades de referencia interfieran sin causa jusitificada con las actividades empresariales del Licenciatario. El Licenciatario acepta 
+que SAP podrá compartir información suya con sus empresas filiales para finalidades de marketing y para otros objetivos empresariales, 
+y el Licenciatario garantiza que ha obtenido el permiso de sus empleados para que SAP comparta sus contactos profesionales con sus 
+filiales.
+11. CESIÓN. El Licenciatario no puede, sin el consentimiento previo por escrito de SAP, ceder, delegar, prometer o transferir de 
+cualquier otro modo este Contrato, o cualquiera de los derechos u obligaciones especificados en este Contrato, ni los Materiales de 
+SAP o la Información Confidencial de SAP, a ninguna parte. Caso, en virtud de la aplicación de norma imperativa, una operación de 
+reestructuración empresarial implique la cesión de la posición contractual en el Contrato del Licenciatario a otra empresa, el Contrato 
+se resolverá de forma automática, caso de dicha operación de reestructuración empresarial resulte un cambio de control de la gestión 
+comparativamente al control de gestión del Licenciatario. SAP puede ceder este Contrato a cualquiera de sus filiales.
+SAP General Terms and Conditions On Premise esES.v.4-2021 Page 6 of 6
+12. DISPOSICIONES GENERALES
+12.1 Nulidad Parcial. Es responsabilidad de las partes que, en caso de que una o más de las disposiciones que contenga este Contrato 
+no sea válida o no sea aplicable por cualquier motivo, dicha invalidez o inaplicabilidad no afecte al resto de disposiciones de este 
+Contrato, y este Contrato deberá ser interpretado como si dicha disposición inválida o no aplicable nunca hubiera existido en el mismo. 
+12.2 Irrenunciabilidad. Si una de las partes renuncia a algún derecho con respecto a cualquier incumplimiento de este Contrato, por 
+ello no se considerará que renuncia a ningún derecho con respecto a cualquier incumplimiento anterior o posterior de la misma o de 
+otra disposición del presente Contrato.
+12.3 Copias. Este Contrato se firmará en dos copias, cada una de las cuales se considerarán originales y que formarán un único 
+Contrato de manera conjunta. Ambas partes acuerdan que este documento y su firma pueden ejecutarse mediante forma electrónica 
+(envío por fax, copia escaneada enviada por e-mail, o firma electrónica mediante medios implementados por SAP – por ejemplo: 
+DocuSign), y que dicha forma electrónica será considerada como original.
+12.4 Asuntos Regulatorios. El Software, la Documentación y los Materiales de SAP están sujetos a leyes de control de exportación de 
+múltiples países, incluyendo, sin limitación, las leyes de Estados Unidos y Alemania. El Licenciatario acepta que no enviará el Software, 
+la Documentación o los Materiales de SAP a ninguna agencia gubernamental para obtener una homologación u otro tipo de aprobación 
+regulatoria sin el previo consentimiento escrito de SAP, y no exportará el Software, la Documentación y los Materiales de SAP a países, 
+personas o entidades no autorizadas por dichas leyes. El Licenciatario también será responsable del cumplimiento de todas las leyes 
+estatales aplicables del país en el que el Licenciatario esté domiciliado y de cualquier país extranjero por lo que respecta al uso del 
+Software, la Documentación u otros Materiales de SAP por parte del Licenciatario y/o sus Filiales. 
+12.5 Ley Aplicable; Plazo de Prescripción. Este Contrato y cualquier reclamación que pudiera surgir a partir del mismo o que pudiera 
+estar relacionada con este Contrato y su materia estará regido y se interpretará según las leyes de España, sin referencia a sus normas 
+de conflicto de leyes. En el caso de que se produzca algún conflicto entre las leyes, los reglamentos y las normas extranjeras, y las 
+leyes, las reglamentos y las normas de España, prevalecerán y regirán las leyes, las reglamentos y las normas de España. La 
+Convención de las Naciones Unidas sobre contratos para la venta internacional de mercancías no es aplicable a este Contrato. La 
+Uniform Computer Information Transactions Act (Ley uniforme de transacciones de información sobre informática) promulgada no es 
+aplicable. El Licenciatario debe iniciar una acción para cualquier reclamación que surja a partir de este Contrato o esté relacionada con 
+él y su objeto en un plazo de un (1) año a partir de la fecha en la que el Licenciatario sepa, o debiera saber tras un período de 
+investigación razonable, los hechos que dan lugar a la reclamación o reclamaciones.
+12.6 Notificaciones. Todas las notificaciones o informes necesarios o que se entreguen en virtud de este Contrato deben ser por 
+escrito y se considerarán completamente entregados cuando se envíen a los directivos correspondientes de SAP y al Licenciatario a las 
+direcciones especificadas en la parte inicial de cualquier Formulario de Pedido de Software. En caso de que en esta Sección 12.6 o en 
+cualquier otra parte de este Contrato, se requiera un formulario escrito, salvo para la notificación de cualquier aviso de terminación o 
+de incumplimiento material que debe hacerse mediante el intercambio de carta/s, ese requerimiento se podrá cumplir mediante el 
+envío por fax, el intercambio de cartas o cualquier otra forma escrita, incluido el correo electrónico.
+12.7 Fuerza Mayor. Cualquier retraso o incumplimiento de alguna de las disposiciones de este Contrato (salvo las relativas al pago 
+de los importes exigidos por el presente) provocado por condiciones que están más allá del control razonable de la parte que lleve a 
+cabo la acción no constituirán un incumplimiento de este Contrato, y el período de cumplimiento de dicha disposición, si lo hubiere, se 
+considerará ampliado durante un período de tiempo equivalente a la duración de las condiciones que han evitado su cumplimiento.
+12.8 Integridad del Contrato. Este Contrato constituye la declaración completa y exclusiva del acuerdo entre SAP y el Licenciatario, 
+y cualquier declaración, negociación y documento previo se consideran sustituidos por este Contrato y las partes renuncian a actuar 
+en virtud de dichas declaraciones, negociaciones o documentos. Este Contrato puede ser modificado únicamente por un escrito firmado 
+por ambas partes. Este Contrato debe prevalecer por encima de cualquier término o condición que aparezca en cualquier orden de 
+compra u otro documento que el Licenciatario proporcione a SAP que entre en conflicto o que sea inconsistente con lo dispuesto en 
+este Contrato. Este Contrato debe prevalecer por encima de cualquier término o condición adicional que aparezca en cualquier contrato 
+de aceptación del usuario final (click wrap end user agreement) incluido en el Software, que entre en conflicto o que sea inconsistente 
+con lo dispuesto en el presente Contrato. Las firmas enviadas a través de medios electrónicos (facsímil o escaneadas y enviadas 
+mediante correo electrónico) se considerarán firmas originales. Este Contrato no crea ninguna alianza, joint venture o relación de 
+principal y agente.
+12.9 Jerarquía. El siguiente orden de prevalencia se aplicará en caso de conflicto o incoherencia entre las disposiciones de los 
+componentes de este Contrato: (i) el Formulario de Pedido de Software; (ii) los Anexos (iii) los Términos y Condiciones Generales; y 
+(iv) los Términos de Uso; salvo con respecto a las condiciones de transferencia (pass-through) de terceros para el Software de Terceros 
+estipulado en los Términos de Uso, en cuyo caso los Términos de Uso prevalecen en caso de cualquier conflicto o i
 
 No sé qué pasó aquí
 ¿Por qué sigo sentido contigo?
